@@ -1,6 +1,6 @@
 # Loan Default & Credit Risk Analysis
 Loan default and credit risk analysis with an interactive dashboard to identify high-risk borrower segments, key default drivers, and pricing gaps using SQL Server and Excel.
-![Dashboard Preview]("C:\Users\kumar\OneDrive\Pictures\Screenshots\Loan_Default_And_Credit_Risk_Analysis_Dashboard_screenshoot.png") 
+![Dashboard Preview]("Loan_Default_And_Credit_Risk_Analysis_Dashboard_Screenshoot.png") 
 ## Objective
 The objective of this project is to analyze loan default and credit risk data, identify the borrower segments and loan types with the highest default risk, and understand whether interest rate pricing reflects that risk.
 ## Dataset
